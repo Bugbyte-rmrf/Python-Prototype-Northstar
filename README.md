@@ -1,4 +1,4 @@
-# Northstar Python Recon
+# Python Prototype Northstar
 
 ## Purpose
 This prototype exists as a reconnaissance mission to validate my local development environment (Ubuntu/Git) and learn fundamental Python syntax before attempting to build the actual Northstar Day 3 service.
